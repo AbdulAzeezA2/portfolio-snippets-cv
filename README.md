@@ -1,3 +1,5 @@
+Updated code is an sample fo complete projects
+
 # portfolio-snippet-cv
 Code samples and project snippets from my work as a Computer Vision Engineer. Curated for professional presentation via LinkedIn.  
 ⚙️ Areas: Computer Vision, Deep Learning, Image Processing, Python, OpenCV, PyTorch, TensorRT, etc.
@@ -15,8 +17,8 @@ This repository showcases a few selected code samples, and snippets that reflect
 - 🧪 Experiment Tracking & Evaluation
 ---
 
-## 📫 About Me
 
+## 📫 About Me
 - 👨‍💻 3+ years experience in Computer Vision, currently at **Continental Automotive**.
 - 🌍 Passionate about real-time vision systems and embedded deployment.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-azeeza2/)
