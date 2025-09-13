@@ -1,4 +1,4 @@
-Updated code is an sample fo complete projects
+> ⚡️ **Update:** Sample **DETR** (DEtection TRansformer) and **DCGAN** code added, adapted from my private repositories for public demonstration.
 
 # portfolio-snippet-cv
 Code samples and project snippets from my work as a Computer Vision Engineer. Curated for professional presentation via LinkedIn.  
