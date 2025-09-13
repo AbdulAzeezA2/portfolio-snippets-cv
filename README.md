@@ -18,7 +18,7 @@ This repository showcases a few selected code samples, and snippets that reflect
 
 - 👨‍💻 3+ years experience in Computer Vision, currently at **Continental Automotive**.
 - 🌍 Passionate about real-time vision systems and embedded deployment.
-- 🔗 [LinkedIn](linkedin.com/in/abdul-azeeza2/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abdul-azeeza2/)
 
 ---
 
